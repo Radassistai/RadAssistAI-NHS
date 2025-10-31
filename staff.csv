@@ -1,0 +1,6 @@
+staff_id,staff_name,role,email,team,is_active,created_at
+ST-0001,Admin Pool,Admin,admin@demo.nhs.uk,Radiology Ops,TRUE,2025-10-31T08:00:00Z
+ST-0002,Dr. A. Patel,Radiologist,apatel@demo.nhs.uk,Radiology,TRUE,2025-10-31T08:00:00Z
+ST-0003,Dr. L. Chen,Radiologist,lchen@demo.nhs.uk,Radiology,TRUE,2025-10-31T08:00:00Z
+ST-0004,J. Taylor,Booking Officer,jtaylor@demo.nhs.uk,Imaging Bookings,TRUE,2025-10-31T08:00:00Z
+ST-0005,R. Khan,Pathway Navigator,rkhan@demo.nhs.uk,Cancer Pathways,TRUE,2025-10-31T08:00:00Z
